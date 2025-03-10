@@ -1,0 +1,77 @@
+at wilder.csv
+  662  cat wilders.csv
+  663  cap php_france_2019.csv 
+  664  touch php_france_2019.csv  
+  665  grep France,PHP,2019 wilders.csv > php_france_2019.csv
+  666  cd php_france_2019.csv
+  667  head php_france_2019.csv
+  668  cat php_france_2019.csv
+  669  wc php_france_2019.csv
+  670  head wilders.csv
+  671  sort wilders.csv
+  672  cat php_france_2019.csv
+  673  ls ~ > php_france_2019.csv
+  674  cat php_france_2019.csv
+  675  wilders.csv ~ > php_france_2019.csv
+  676  wilders.csv ~ >> php_france_2019.csv
+  677  wilders ~ >> php_france_2019.csv
+  678  ls wilders.csv
+  679  cd wilder.csv
+  680  cd wilders.csv
+  681  cat php_france_2019.csv
+  682  wc php_france_2019.csv
+  683  wilders.csv | php_france_2019.csv
+  684  wilders.csv - php_france_2019.csv
+  685  wilders.csv -<< php_france_2019.csv
+  686  cat php_france_2019.csv
+  687  echo php_france_2019.csv > wilder.csv
+  688  cat php_france_2019.csv
+  689  echo php_france_2019.csv >> wilder.csv
+  690  cat php_france_2019.csv
+  691  wc php_france_2019.csv
+  692  cat wilder.csv
+  693  echo php_france_2019.csv > wilder.csv
+  694  cat wilders.csv
+  695  echo wilders.csv < php_france_2019.csv
+  696  cat php_france_2019.csv
+  697  echo wilders.csv > php_france_2019.csv
+  698  cat php_france_2019.csv
+  699  echo wilders.csv >> php_france_2019.csv
+  700  cat php_france_2019.csv
+  701  ls php_france_2019.csv
+  702  cat php_france_2019.csv
+  703  echo wilders.csv >> php_france_2019.csv
+  704  echo wilders.csv << php_france_2019.csv
+  705  cat php_france_2019.csv
+  706  cat wilders.csv
+  707  cat >> php_france_2019.csv
+  708  cat php_france_2019.csv
+  709  sort php_france_2019.csv
+  710  grep -r -i php_france_2019.csv '2019' ./
+  711  cat php_france_2019.csv
+  712  sort php_france_2019.csv
+  713  grep "France,2019,PHP" < php_france_2019.csv
+  714  cat php_france_2019.csv
+  715  grep "France,2019,PHP" < php_france_2019.csv wc -1
+  716  grep "France,2019,PHP" < php_france_2019.csv wc 
+  717  grep "JavaScript"
+  718  cat php_france_2019.csv
+  719  sort php_france_2019.csv
+  720  cat >> php_france_2019.csv
+  721  cat php_france_2019.csv
+  722  cat > php_france_2019.csv
+  723  sort php_france_2019.csv
+  724  cat php_france_2019.csv
+  725  cat >> php_france_2019.csv
+  726  cat php_france_2019.csv
+  727  touch javascript_biarritz_toulouse.csv
+  728  cat > javascript_biarritz_toulouse.csv
+  729  cat wilders.csv
+  730  cat > javascript_biarritz_toulouse.csv
+  731  cat  javascript_biarritz_toulouse.csv
+  732  grep "JavaScript" < javascript_biarritz_toulouse.csv
+  733  cat > javascript_biarritz_toulouse.csv
+  734  cat  javascript_biarritz_toulouse.csv
+  735  cat php_france_2019.csv
+  736  grep history > tail
+  737  history
