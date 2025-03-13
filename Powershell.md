@@ -19,3 +19,5 @@ Cat = Get-Content
 --Get-Help Get-Process -Online
 
 --Get-Help Get-Process
+
+--Get-Command
