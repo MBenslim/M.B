@@ -2,7 +2,7 @@ Cp = Copy-Item
 
 Get-help cp
 
-Rm = Remove Item
+Rm = Remove-Item
 
 Get-help rm
 
